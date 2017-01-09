@@ -1,0 +1,8 @@
+{
+  "name": "Comfortable-Planner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Morton358/Comfortable-Planner.git",
+  "author": "Volodymyr Yevtushenko <yevova10@gmail.com>",
+  "license": "MIT"
+}
