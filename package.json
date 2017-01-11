@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:Morton358/Comfortable-Planner.git",
   "author": "Volodymyr Yevtushenko <yevova10@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
 }
