@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 ReactDOM.render(
-        <h1>Hell</h1>,
-        <p>o</p>,
+    React.createElement('h1', null, 'Hello, World!'),
     document.getElementById('root')
 );
