@@ -1,0 +1,3 @@
+language: node_js
+notifications:
+  slack: pink-tiger:VWvkQpHJw2R7URhrDgzX5swZ
